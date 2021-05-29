@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.HomeWork.IdentityServer.IdentityServer4", "Otus.HomeWork.IdentityServer.IdentityServer4\Otus.HomeWork.IdentityServer.IdentityServer4.csproj", "{7FF468EA-4F91-4A7F-8DC6-E78E3ED4923B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF468EA-4F91-4A7F-8DC6-E78E3ED4923B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF468EA-4F91-4A7F-8DC6-E78E3ED4923B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF468EA-4F91-4A7F-8DC6-E78E3ED4923B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF468EA-4F91-4A7F-8DC6-E78E3ED4923B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE723AC6-6912-4247-8732-9F70DC197F91}
+	EndGlobalSection
+EndGlobal
